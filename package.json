@@ -15,6 +15,7 @@
     "cloudinary": "^2.10.0",
     "dotenv": "^17.4.2",
     "next": "16.2.6",
+    "next-cloudinary": "^6.17.5",
     "prisma": "^6.19.3",
     "react": "19.2.4",
     "react-dom": "19.2.4"
@@ -24,11 +25,13 @@
     "@types/node": "^20.19.41",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "autoprefixer": "^10.5.0",
     "babel-plugin-react-compiler": "1.0.0",
     "daisyui": "^5.5.20",
     "eslint": "^9",
     "eslint-config-next": "16.2.6",
-    "tailwindcss": "^4",
+    "postcss": "^8.5.15",
+    "tailwindcss": "^3.4.17",
     "typescript": "^5"
   }
 }
